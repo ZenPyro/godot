@@ -51,6 +51,7 @@
 #include <cstring>
 #include <fstream>
 #include <float.h>
+#include <algorithm>
 #include "tvgLoader.h"
 #include "tvgXmlParser.h"
 #include "tvgSvgLoader.h"

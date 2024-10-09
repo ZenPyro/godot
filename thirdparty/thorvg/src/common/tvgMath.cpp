@@ -21,6 +21,7 @@
  */
 
 #include "tvgMath.h"
+#include <algorithm>
 
 //see: https://en.wikipedia.org/wiki/Remez_algorithm
 float mathAtan2(float y, float x)
